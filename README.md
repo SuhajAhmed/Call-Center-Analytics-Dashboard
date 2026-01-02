@@ -1,7 +1,7 @@
 # Call-Center-Analytics- Using Tableau
 # 📞 Call Center Performance Analysis Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## 📊 Project Overview
 This project presents a comprehensive analysis of call center operations, focusing on agent efficiency, customer satisfaction, and volume trends. The dashboard provides actionable insights into service level agreements (SLAs) and individual agent performance.
